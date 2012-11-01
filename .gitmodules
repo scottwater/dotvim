@@ -1,5 +1,5 @@
-[submodule "bundle/bufonly.vim"]
-	path = bundle/bufonly.vim
+[submodule "bundle/BufOnly"]
+	path = bundle/BufOnly
 	url = https://github.com/vim-scripts/BufOnly.vim.git
 [submodule "bundle/YankRing.vim"]
 	path = bundle/YankRing.vim
